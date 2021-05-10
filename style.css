@@ -32,7 +32,6 @@ body {
 .title{
   text-align: center;
   font-size: xx-large;
-  text-shadow: rgb(241, 239, 239);
 }
 .wrapper {
   padding-top: 30px;
@@ -65,7 +64,6 @@ header {
   width: 100%;
   background: #e7e9eb;
   height: 2px;
-  text-shadow: blanchedalmond;
 }
 
 .card-body {
