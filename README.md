@@ -6,4 +6,4 @@ Deployed application: https://ambervangieson.github.io/Password-Generator/
 
 Functioning app:
 
-<img src = "./assets/functioning.png">
+<img src = "./assets/functioning.jpg">
